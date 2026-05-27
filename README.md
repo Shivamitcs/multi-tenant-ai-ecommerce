@@ -259,14 +259,6 @@ Modern AI-powered commerce experiences designed for intelligent customer engagem
 
 ---
 
-### 🎯 Category Discovery
-
-<p align="center">
-  <img src="./assets/screenshots/web/Categoery.png" width="100%" alt="Category Discovery"/>
-</p>
-
----
-
 ### 🛒 Shopping Cart Experience
 
 <p align="center">
@@ -279,22 +271,6 @@ Modern AI-powered commerce experiences designed for intelligent customer engagem
 
 <p align="center">
   <img src="./assets/screenshots/web/Dashboard2.png" width="100%" alt="Merchant Dashboard"/>
-</p>
-
----
-
-### 🏢 Multi-Tenant Management
-
-<p align="center">
-  <img src="./assets/screenshots/web/Tenant.png" width="100%" alt="Multi Tenant Management"/>
-</p>
-
----
-
-### ⚙️ Store Configuration
-
-<p align="center">
-  <img src="./assets/screenshots/web/Setting2.png" width="100%" alt="Store Configuration"/>
 </p>
 
 ---
