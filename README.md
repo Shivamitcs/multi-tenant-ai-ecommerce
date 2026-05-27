@@ -188,32 +188,17 @@ The mobile ecosystem is engineered for high-performance commerce interactions, r
 
 ---
 
-## System Architecture
+## 🏗️ System Architecture
 
-```txt
-┌────────────────────────────────────┐
-│        Web & Mobile Clients        │
-│ Next.js + AI Mobile Commerce App   │
-└────────────────┬───────────────────┘
-                 │
-                 ▼
-┌────────────────────────────────────┐
-│      AI Commerce Interaction       │
-│ Intelligent Sales Assistant Layer  │
-└────────────────┬───────────────────┘
-                 │
-                 ▼
-┌────────────────────────────────────┐
-│     Multi-Tenant Commerce Core     │
-│ Tenant Isolation + Store Logic     │
-└────────────────┬───────────────────┘
-                 │
-                 ▼
-┌────────────────────────────────────┐
-│    Product & Commerce Services     │
-│ Recommendations + Analytics        │
-└────────────────────────────────────┘
-```
+<p align="center">
+  <img 
+    src="./assets/architecture/Ecom-system-architecture.png" 
+    width="100%" 
+    alt="Enterprise System Architecture"
+  />
+</p>
+
+Scalable multi-tenant architecture engineered for AI-powered workflows, modular commerce services, enterprise integrations, and cloud-native infrastructure.
 
 ---
 
