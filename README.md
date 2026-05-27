@@ -186,6 +186,154 @@ Modern AI-powered commerce experiences designed for intelligent customer engagem
 
 ---
 
+# 🌐 Web Platform Screenshots
+
+---
+
+### 🤖 AI Shopping Assistant
+
+<p align="center">
+  <img src="./assets/screenshots/web/AI Assistant.png" width="100%" alt="AI Shopping Assistant"/>
+</p>
+
+---
+
+### 🏬 Premium Storefront
+
+<p align="center">
+  <img src="./assets/screenshots/web/Store-3.png" width="100%" alt="Premium Storefront"/>
+</p>
+
+---
+
+### 🛍️ Product Discovery Experience
+
+<p align="center">
+  <img src="./assets/screenshots/web/Products.png" width="100%" alt="Product Discovery"/>
+</p>
+
+---
+
+### 📦 Product Details & Recommendations
+
+<p align="center">
+  <img src="./assets/screenshots/web/Product_details.png" width="100%" alt="Product Details"/>
+</p>
+
+---
+
+### 🎯 Category Discovery
+
+<p align="center">
+  <img src="./assets/screenshots/web/Categoery.png" width="100%" alt="Category Discovery"/>
+</p>
+
+---
+
+### 🛒 Shopping Cart Experience
+
+<p align="center">
+  <img src="./assets/screenshots/web/Cart_Items.png" width="100%" alt="Shopping Cart"/>
+</p>
+
+---
+
+### 📊 Merchant Analytics Dashboard
+
+<p align="center">
+  <img src="./assets/screenshots/web/Dashboard2.png" width="100%" alt="Merchant Dashboard"/>
+</p>
+
+---
+
+### 🏢 Multi-Tenant Management
+
+<p align="center">
+  <img src="./assets/screenshots/web/Tenant.png" width="100%" alt="Multi Tenant Management"/>
+</p>
+
+---
+
+### ⚙️ Store Configuration
+
+<p align="center">
+  <img src="./assets/screenshots/web/Setting2.png" width="100%" alt="Store Configuration"/>
+</p>
+
+---
+
+# 📱 Mobile App Screenshots
+
+Modern mobile commerce experience engineered for intelligent shopping workflows, AI-assisted interactions, and seamless customer engagement.
+
+---
+
+<table align="center">
+<tr>
+<td align="center">
+<img src="./assets/screenshots/mobile/Home.PNG" width="250" alt="Home Screen"/>
+<br/>
+<b>🏠 Home Screen</b>
+</td>
+
+<td align="center">
+<img src="./assets/screenshots/mobile/Products.PNG" width="250" alt="Explore Products"/>
+<br/>
+<b>🔍 Explore Products</b>
+</td>
+
+<td align="center">
+<img src="./assets/screenshots/mobile/Product details.PNG" width="250" alt="Product Details"/>
+<br/>
+<b>🛍️ Product Details</b>
+</td>
+</tr>
+</table>
+
+---
+
+<table align="center">
+<tr>
+<td align="center">
+<img src="./assets/screenshots/mobile/Filter Product.PNG" width="250" alt="Smart Product Filters"/>
+<br/>
+<b>🎛️ Smart Product Filters</b>
+</td>
+
+<td align="center">
+<img src="./assets/screenshots/mobile/Crat.PNG" width="250" alt="Shopping Cart"/>
+<br/>
+<b>🛒 Shopping Cart</b>
+</td>
+
+<td align="center">
+<img src="./assets/screenshots/mobile/Checkout1.PNG" width="250" alt="Checkout Experience"/>
+<br/>
+<b>💳 Checkout Experience</b>
+</td>
+</tr>
+</table>
+
+---
+
+<table align="center">
+<tr>
+<td align="center">
+<img src="./assets/screenshots/mobile/Profile.PNG" width="250" alt="User Profile"/>
+<br/>
+<b>👤 User Profile</b>
+</td>
+
+<td align="center">
+<img src="./assets/screenshots/mobile/Order History.PNG" width="250" alt="Order History"/>
+<br/>
+<b>📦 Order History</b>
+</td>
+</tr>
+</table>
+
+---
+
 ---
 
 ## Business Problem
